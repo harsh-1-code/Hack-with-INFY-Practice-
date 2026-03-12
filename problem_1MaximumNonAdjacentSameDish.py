@@ -53,3 +53,10 @@ for _ in range (T):
                 max_count = count
                 best_type =T
     print("best_type",best_type) 
+
+# terminal output 
+# harshsingh@Harshs-MacBook-Air Harsh CODE % python -u "/Users/harshsingh/Desktop/Harsh CODE/PYTHON/HWI/problem_1MaximumNonAdjacentSameDish.py"
+# 1
+# 9
+# 1 2 2 1 2 1 1 1 1
+# best_type 1
